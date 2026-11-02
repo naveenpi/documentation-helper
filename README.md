@@ -90,4 +90,4 @@ documentation-helper/
 
 ## Reference
 
-The structure and RAG workflow were inspired by [emarco177/documentation-helper](https://github.com/emarco177/documentation-helper). NPS content comes from the [National Park Service](https://www.nps.gov/).
+NPS content comes from the [National Park Service](https://www.nps.gov/).
